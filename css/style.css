@@ -1,0 +1,52 @@
+html
+{
+    height: 100%;
+}
+body
+{
+    background: linear-gradient(#1A5276, #154360);
+}
+select
+{
+    font-size: 18px;
+    border-radius: 5px;
+    width: 80px;
+}
+.head
+{
+    margin-left: 7px;
+    margin-right:35px;
+
+}
+.btn
+{
+    width: 100px;
+}
+#submit
+{
+    margin-left: 20px;
+}
+label, h3, h4
+{
+    color: #ece9ec;
+}
+.show_label
+{
+    font-size: 18px;
+    margin-left: 10px;
+}
+h3
+{
+    margin-left: 40px;
+}
+
+.panel {
+        margin-top: 20px;
+        background: none;
+    }
+.panel-heading{
+
+    background: linear-gradient(#1A5276, #154360);
+    //background: none;
+
+}
